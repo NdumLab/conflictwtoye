@@ -1,2 +1,2 @@
 we want to learn
-And resole issues
+And resolve issues
